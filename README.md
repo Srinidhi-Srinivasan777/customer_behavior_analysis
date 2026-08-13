@@ -188,9 +188,7 @@ Gamma AI was used to assist in creating and designing the presentation.
 The presentation provides a concise overview of the project and its results.
 
 ▶️ How to Run the Project
-1. Clone the Repository
-git clone https://github.com/yourusername/data-analytics-project.git
-cd data-analytics-project
+1. Clone the Repository using the git clone command.
 
 2. Install Python Libraries
 pip install pandas numpy jupyter
@@ -219,6 +217,7 @@ Open the .pbix file using Power BI Desktop.
 If required, update the data source connection to point to your local MySQL database.
 
 📁 Project Structure
+
 data-analytics-project/
 │
 ├── data/
