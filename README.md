@@ -219,32 +219,48 @@ If required, update the data source connection to point to your local MySQL data
 📁 Project Structure
 
 data-analytics-project/
+
 │
+
 ├── data/
+
 │   ├── raw/
+
 │   │   └── dataset.csv
+
 │   └── cleaned/
+
 │       └── cleaned_dataset.csv
+
 │
 ├── notebooks/
+
 │   └── EDA_Data_Cleaning.ipynb
+
 │
 ├── sql/
+
 │   └── analysis_queries.sql
+
 │
 ├── powerbi/
 │   └── analytics_dashboard.pbix
+
 │
 ├── report/
 │   └── project_report.pdf
+
 │
 ├── presentation/
 │   └── project_presentation.pptx
+
 │
 ├── images/
 │   └── dashboard.png
+
 │
 └── README.md
+
 
 🎯 Skills Demonstrated
 
